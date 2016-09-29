@@ -1,0 +1,8 @@
+C:\Users\Elena_Tcherniak\Documents\VisualStudio2015\Projects\HT4\Part2_Runner\bin\Debug\Part2_Runner.exe.config
+C:\Users\Elena_Tcherniak\Documents\VisualStudio2015\Projects\HT4\Part2_Runner\bin\Debug\Part2_Runner.exe
+C:\Users\Elena_Tcherniak\Documents\VisualStudio2015\Projects\HT4\Part2_Runner\bin\Debug\Part2_Runner.pdb
+C:\Users\Elena_Tcherniak\Documents\VisualStudio2015\Projects\HT4\Part2_Runner\bin\Debug\Part2.dll
+C:\Users\Elena_Tcherniak\Documents\VisualStudio2015\Projects\HT4\Part2_Runner\bin\Debug\Part2.pdb
+C:\Users\Elena_Tcherniak\Documents\VisualStudio2015\Projects\HT4\Part2_Runner\obj\Debug\Runner.csprojResolveAssemblyReference.cache
+C:\Users\Elena_Tcherniak\Documents\VisualStudio2015\Projects\HT4\Part2_Runner\obj\Debug\Part2_Runner.exe
+C:\Users\Elena_Tcherniak\Documents\VisualStudio2015\Projects\HT4\Part2_Runner\obj\Debug\Part2_Runner.pdb

@@ -1,0 +1,6 @@
+C:\Users\Elena_Tcherniak\Documents\VisualStudio2015\Projects\HT4\Task2_4\bin\Debug\Task2_4.exe.config
+C:\Users\Elena_Tcherniak\Documents\VisualStudio2015\Projects\HT4\Task2_4\bin\Debug\Task2_4.exe
+C:\Users\Elena_Tcherniak\Documents\VisualStudio2015\Projects\HT4\Task2_4\bin\Debug\Task2_4.pdb
+C:\Users\Elena_Tcherniak\Documents\VisualStudio2015\Projects\HT4\Task2_4\obj\Debug\Task2_4.csprojResolveAssemblyReference.cache
+C:\Users\Elena_Tcherniak\Documents\VisualStudio2015\Projects\HT4\Task2_4\obj\Debug\Task2_4.exe
+C:\Users\Elena_Tcherniak\Documents\VisualStudio2015\Projects\HT4\Task2_4\obj\Debug\Task2_4.pdb

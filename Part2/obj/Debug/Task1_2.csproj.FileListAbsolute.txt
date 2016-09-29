@@ -1,0 +1,5 @@
+C:\Users\Elena_Tcherniak\Documents\VisualStudio2015\Projects\HT4\Part2\bin\Debug\Part2.dll
+C:\Users\Elena_Tcherniak\Documents\VisualStudio2015\Projects\HT4\Part2\bin\Debug\Part2.pdb
+C:\Users\Elena_Tcherniak\Documents\VisualStudio2015\Projects\HT4\Part2\obj\Debug\Task1_2.csprojResolveAssemblyReference.cache
+C:\Users\Elena_Tcherniak\Documents\VisualStudio2015\Projects\HT4\Part2\obj\Debug\Part2.dll
+C:\Users\Elena_Tcherniak\Documents\VisualStudio2015\Projects\HT4\Part2\obj\Debug\Part2.pdb

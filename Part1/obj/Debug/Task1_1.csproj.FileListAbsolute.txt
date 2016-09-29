@@ -1,0 +1,6 @@
+C:\Users\Elena_Tcherniak\Documents\VisualStudio2015\Projects\HT4\Part1\bin\Debug\Part1.exe.config
+C:\Users\Elena_Tcherniak\Documents\VisualStudio2015\Projects\HT4\Part1\bin\Debug\Part1.exe
+C:\Users\Elena_Tcherniak\Documents\VisualStudio2015\Projects\HT4\Part1\bin\Debug\Part1.pdb
+C:\Users\Elena_Tcherniak\Documents\VisualStudio2015\Projects\HT4\Part1\obj\Debug\Task1_1.csprojResolveAssemblyReference.cache
+C:\Users\Elena_Tcherniak\Documents\VisualStudio2015\Projects\HT4\Part1\obj\Debug\Part1.exe
+C:\Users\Elena_Tcherniak\Documents\VisualStudio2015\Projects\HT4\Part1\obj\Debug\Part1.pdb

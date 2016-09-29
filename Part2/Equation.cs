@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Part2
 {
-    public class ClassLibrary
+    public class Equation
     {
         public double SolveQuadraticEquation(List<double> index, bool pos)
         {
@@ -38,20 +38,6 @@ namespace Part2
                  var root = (-b) / a;
                 return root;
             }         
-        }
-
-        public string ChooseTypeOfEquation(string type)
-        {
-            Console.WriteLine("Choose the type of equation. If you prefere quadratic equation input 1, if you prefere linear equation input 2");
-            string str = Console.ReadLine();
-            Console.WriteLine("Enter coefficient: ");
-            switch(str)
-             {
-                 case "1":
-                  
-                 case "2":
-                 default:
-             }
         }
     }
 }

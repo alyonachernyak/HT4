@@ -1,0 +1,5 @@
+C:\Users\Elena_Tcherniak\Documents\VisualStudio2015\Projects\HT4\Task1_3_library\bin\Debug\Task1_3_library.dll
+C:\Users\Elena_Tcherniak\Documents\VisualStudio2015\Projects\HT4\Task1_3_library\bin\Debug\Task1_3_library.pdb
+C:\Users\Elena_Tcherniak\Documents\VisualStudio2015\Projects\HT4\Task1_3_library\obj\Debug\Task1_3_library.csprojResolveAssemblyReference.cache
+C:\Users\Elena_Tcherniak\Documents\VisualStudio2015\Projects\HT4\Task1_3_library\obj\Debug\Task1_3_library.dll
+C:\Users\Elena_Tcherniak\Documents\VisualStudio2015\Projects\HT4\Task1_3_library\obj\Debug\Task1_3_library.pdb
